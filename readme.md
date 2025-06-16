@@ -1,0 +1,4 @@
+
+
+npm rebuild canvas
+
